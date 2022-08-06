@@ -1,5 +1,7 @@
 ### Hi there 👋
-hello all
+- I'm an enthusiastic, detail-oriented Embedded Systems Engineer.
+- I'm always up to push my limits for new challenges and loves to make the electronic products and services smart by contributing myself in various ways towards the design and development phases involving Hardware design, develop modules and make them work well in the real-time environment.
+ 
 <!--
 **hartalkaraditya/hartalkaraditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
